@@ -1,1 +1,17 @@
 Anders tester git vcs
+Og tilføjer lige en linjes tekst...
+
+Og her er endnu en:
+
+<div>
+	<div>Anders skriver html</div>
+	<p>Og her er lidt mere</p>
+</div>
+
+En liste:
+<ul>
+	<li>Anders</li>
+	<li>Christian</li>
+	<li>Finn</li>
+	<li>Britta</li>
+</ul>
